@@ -1,4 +1,2 @@
 # SkedyFtman
-Plugins 
-Configuaraciones 
-Archivos al dia
+Servidor de Minecraft 
